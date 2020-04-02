@@ -1,0 +1,201 @@
+ID;OrgId;Question
+1;1;How many hospitals are there in Oxford
+2;2;How many pharmacies are in 200 meter radius of High Street in Oxford
+3;3;Which is the closest airport to London
+4;4;How many underground lines does London have
+5;5;Which restaurants are near* Edinburgh Castle
+6;6;Which hotels are near Big Ben
+7;7;How many counties does England have
+8;8;Does England have more counties than Ireland
+9;9;Which airports are in Ireland
+10;10;Which restaurants are close to London Bridge
+11;11;Is the Castle of Edinburgh less than 2km away from Calton Hill
+12;12;Which hospitals are close to Stirling Castle
+13;13;Is there any hospital in a range of 1 km from Jubilee Gardens in London
+14;14;Where is the closest market to Elephant and Castle underground station
+15;15;Which is the highest point in Cheshire
+16;16;Which counties border county Lincolnshire
+17;17;Which is the largest lake in England
+18;18;Which is the highest building in London
+19;19;Where is Loch Goil located
+20;20;Which theaters are near Trafalgar Square
+21;21;Which airports are in London
+22;22;Which bridges cross River Thames
+23;23;Through which cities does River Thames flow
+24;24;Which universities are in England
+25;25;Which is the highest mountain in Ireland
+26;26;Which rivers are in Great Britain
+27;27;Which mountains are in Scotland
+28;28;What is the name of Britain longest river
+29;29;Which airports are in the city of Salford
+30;30;Where is Elizabeth Tower located
+31;31;What is the number of universities in London
+32;32;Where is a car park near Big Ben
+33;33;Which pubs in Manchester are near the Old Trafford stadium
+34;34;Which rivers are in Wales
+35;35;Is there a river that crosses Manchester
+36;36;Which rivers cross Derry
+37;37;Which counties of Scotland border England
+38;38;Which Scottish counties border England
+39;39;Which is the total area of Northern Ireland
+40;40;Where is Nelson Column located
+41;41;Is there a car park at most 1km from Waterloo Bridge
+42;42;Is the county of Antrim bigger than the county of Armagh
+43;43;Does the county of Durham border Essex
+44;44;Where is Trafalgar square located
+45;45;Where is Emirates Stadium located
+46;46;Which cities in England have at least 2 castles
+47;47;Are the cities that River Thames crosses more than 10
+48;48;Which castles are in the Highland council area of Scotland
+49;49;Which restaurants are at most 1km away from Big Ben
+50;50;Are there any rivers that cross both England and Wales
+51;51;How many are the counties of England
+52;52;Which is the biggest county council in the Republic of Ireland
+53;53;Which county of England occupies the largest area
+54;54;Which is the smallest lake in Scotland
+55;55;Is county Oxfordshire east of the county Essex
+56;56;What is the longest bridge in Scotland
+57;57;Is there a national park near York
+58;58;Which pubs in Dublin are near Guinness Brewery
+59;59;Which hospital is nearest to Calton Hill in Edinburgh
+60;60;Which cafes in Manchester are near Piccadilly Gardens
+61;61;Which hospitals in Liverpool are near Abercromby Square
+62;62;Which pubs in Liverpool are at most 2km from Anfield stadium
+63;63;Which hotels in Manchester are near Wharfside Way
+64;64;Which cafes in London are at most 3 km from St. Anthony the Great and St. John the Baptist church
+65;65;Which pubs in Liverpool are near Anfield stadium
+66;66;Which county is west of South Yorkshire
+67;67;Which department stores are at most 2km from Central Park hotel in London
+68;68;Which hotels are in England capital
+69;69;Where can I find a car park in Bristol
+70;70;Which football stadium has the biggest capacity in Ireland
+71;71;Which city of England is nearest to London
+72;72;Which hotel is the nearest to Old Trafford Stadium in Manchester
+73;73;Which universities are in county Essex
+74;74;Is there a forest in Lancashire north of Burnley
+75;75;Which villages are in Herefordshire
+76;76;Is there a church at most 2km from the University of Westminster
+77;77;Is there a county of England that borders the Isle of Wight
+78;78;How many mountains are there in Scotland
+79;79;Which site of Manchester is the most popular
+80;80;Is there a church in the county of Greater Manchester dedicated to St. Patrick
+81;81;Which city is southeast of Salford
+82;82;Is there a mountain in the county of Greater Manchester taller than 1300 meters above sea level
+83;83;Is there a river in Ireland that crosses more than 3 cities
+84;84;Which university colleges are in Scotland
+85;85;Which mountains in Scotland have height more than 1000 meters
+86;86;Which villages in Scotland have a population of less than 500 people
+87;87;In which city is Big Ben located
+88;88;What is the name of the river that runs through London
+89;89;Is there a Modern Art Museum in London
+90;90;Which county of England has the biggest population
+91;91;How many cities does Thames river crosses
+92;92;Through which cities does River Thames flow
+93;93;Does the distric of Coleraine border Belfast
+94;94;Which districts border London
+95;95;Is there a train station in Dublin
+96;96;Which forests are in Northern Ireland
+97;97;Which are the metropolitan counties of England
+98;98;Which is the largest royal borough of London
+99;99;Which Welsh district has the most adjacent Welsh districts
+100;100;What is the name of the river that flows under the Queensway Bridge in Liverpool
+101;101;Is there a castle in London near Trafalgar Square
+102;102;Is there a park in Dublin near Grafton Street
+103;103;Is Hampshire north of Berkshire
+104;104;Which counties of England border country Scotland
+105;105;Is Trafalgar square located in London
+106;106;Which is the oldest bridge of London
+107;107;Is there any airfield in Wellesbourne village in England
+108;108;How many parks are there in Northampton
+109;109;Is there any stadium in Cardiff
+110;110;Is there an aerodrome in Essex
+111;111;Which aerodrome is in Essex
+112;112;Which aerodromes are at most 50km from London
+113;113;Is Somerset west of Westmorland
+114;114;Is Edinburgh west of Glasgow
+115;115;How many rivers cross the county West Yorkshire
+116;116;How many cities does Merseyside have
+117;117;Is there an airport in Dublin
+118;118;Which are the counties of Northern Ireland
+119;119;What historic buildings are in Buckinghamshire
+120;120;Which Greek restaurants in London are near Wembley stadium
+121;121;Is there a National Park in England
+122;122;Is there a mountain in Merseyside
+123;123;Which town has the biggest population in Scotland
+124;124;Where is the nearest gas station to St. Peter Square in Manchester
+125;125;Does county Suffolk border county Durham
+126;126;Which counties of Ireland does River Shannon cross
+127;127;Is Cavan a county of Ireland
+128;128;Which restaurants are at most 500m from the University of Liverpool
+129;129;Which restaurants are near Baker Street in London
+130;130;Which lakes are in Ireland
+131;131;Which parks are near Trafalgar Square
+132;132;Which countries border Wales
+133;133;Are there cities that are at most 2km away from St. David in Wales
+134;134;Which river crosses the most cities in England
+135;135;Which is the longest river in Scotland
+136;136;Which city in Scotland has the largest population
+137;137;Which is the largest lake by area in Great Britain
+138;138;Is England part of the United Kingdom 
+139;139;Which cities or towns of the United Kingdom have a university
+140;140;Does Everton FC plays in Liverpool
+141;141;Which towns of England have at least two hospitals
+142;142;Is Alnwick Castle in Scotland
+143;143;Which is the largest city of Ireland
+144;144;How many country councils are there in Ireland
+145;145;Which colleges are in London
+146;146;Which city council includes Dublin
+147;147;Which restaurants are near Stonehenge
+148;148;How many districts does Northern Ireland have
+149;149;Which are the non-metropolitan counties of England
+150;150;What tourist attractions are there in Belfast, Northern Ireland
+151;151;Which pubs are near Mercure Hotel in Glasgow, Scotland
+152;152;Which are the main railway stations in Glasgow, Scotland
+153;153;Are there more than 10 districts in Hampshire, England
+154;154;Is there a mountain within 20km of Cheshire
+155;155;What historical monuments are there in London
+156;156;Which rivers in Scotland have more than 100 km length
+157;157;What is the elevation of the most elevated spot in county Down
+158;158;What is the area of county Chesire
+159;159;Which are the districts of county Chesire
+160;160;Which is the largest county of England
+161;161;What is the length of river Thames
+162;162;Where is Tower Bridge located
+163;163;Does London have a mountain
+164;164;How many rivers cross England cities
+165;165;Is London south of Manchester
+166;166;Is Islington near Angel
+167;167;Is the City of London north of the Thames river
+168;168;Are there any lakes in Scotland
+169;169;Is there a car park near a bridge on river Exe
+170;170;Which car park is closest to a bridge on river Exe
+171;171;Which counties border county Donegal to the south
+172;172;What is the longest river in England and Wales
+173;173;Which restaurants in London are near Kensington Palace
+174;174;Is there a forest near Manchester
+175;175;Which medieval castles are in Scotland
+176;176;Which provinces of Ireland have population over 2 million
+177;177;What London underground stations are closest to the British Museum
+178;178;What is the most populated city in the United Kingdom except London
+179;179;Is the monument of the Great Fire of London east of King WIlliam Street
+180;180;Is the Tower of London near river Thames
+181;181;Which bars are near Prince street in Edinburgh
+182;182;What is the most densely populated city in Ireland
+183;183;Does Hammersmith Bridge connect Hammersmith with Barnes
+184;184;Which hotels are near Loch Ness
+185;185;Is there a museum at most 1km from Liverpool
+186;186;In which part of England is Liverpool located
+187;187;Which city in Scotland has the largest population
+188;188;Is Glasgow the largest city of Scotland in terms of population
+189;189;What is the distance between Liverpool and Glasgow
+190;190;Is Liverpool part of Scotland
+191;191;In what county is Stonehenge located
+192;192;Which rivers discharge into the Solway Firth
+193;193;Which museums are within 3km of Saint George hotel in London
+194;194;Is there a forest in county Cheshire
+195;195;Which art museums are at most 1km from Charlotte Square in Edinburgh
+196;196;How many rivers cross Edinburgh
+197;197;How many counties does the river Thames cross
+198;198;Which rivers cross county Cheshire
+199;199;Which county is east of county Dorset
+200;200;Is there a river that crosses county Greater Manchester

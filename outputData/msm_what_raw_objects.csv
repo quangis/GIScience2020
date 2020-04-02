@@ -1,0 +1,295 @@
+intent,relation,object,distance,qid
+address,for,logues restaurant,0,349
+address,for,restaurant,1,349
+address,for,logues,2,349
+location,of,a place,0,367
+location,of,place,1,367
+name,of,the bridge,0,371
+name,of,bridge,1,371
+name,of,the casino,0,451
+name,of,casino,1,451
+restaurant,that,used,0,453
+restaurant,that,used,1,453
+name,of,the remodeled hotel restaurant,0,1510
+name,of,restaurant,1,1510
+name,of,hotel,2,1510
+name,of,remodeled,3,1510
+address,for,strong Memorial Hospital,0,1552
+address,for,Hospital,1,1552
+address,for,Memorial,2,1552
+address,for,strong,3,1552
+point,in,elevation,0,1574
+point,in,elevation,1,1574
+name,of,the a frame building,0,1918
+name,of,building,1,1918
+name,of,frame,2,1918
+place,to,visit,0,1966
+place,to,visit,1,1966
+name,of,the largest public park,0,2355
+name,of,park,1,2355
+name,of,public,2,2355
+name,of,largest,3,2355
+level,of,the Central Highlands,0,2506
+level,of,Highlands,1,2506
+level,of,Central,2,2506
+place,that,you need,0,2982
+place,that,need,1,2982
+place,that,you,2,2982
+names,of,island,0,6379
+names,of,island,1,6379
+abbreviation,for,the state,0,7305
+abbreviation,for,state,1,7305
+airport,to,univ,0,7406
+airport,to,univ,1,7406
+name,of,the desert located,0,7737
+name,of,located,1,7737
+name,of,desert,2,7737
+name,of,The Gorge,0,7740
+name,of,Gorge,1,7740
+name,of,The,2,7740
+name,of,The Mall,0,7743
+name,of,Mall,1,7743
+name,of,The,2,7743
+name,of,the osf hospital,0,7748
+name,of,hospital,1,7748
+name,of,osf,2,7748
+terminal,for,jetblue,0,7946
+terminal,for,jetblue,1,7946
+waterway,that,connects Eastern Europe,0,7972
+waterway,that,Europe,1,7972
+waterway,that,Eastern,2,7972
+waterway,that,connects,3,7972
+county,in,Knoxville,0,8032
+county,in,Knoxville,1,8032
+region,in,the state,0,8848
+region,in,state,1,8848
+cost,to,park,0,8863
+cost,to,park,1,8863
+water,of,the state,0,8910
+water,of,state,1,8910
+name,of,the airport,0,9371
+name,of,airport,1,9371
+name,of,the cemetery,0,9406
+name,of,cemetery,1,9406
+address,for,the steam plant,0,9585
+address,for,plant,1,9585
+address,for,steam,2,9585
+Landmark,in,newcastle,0,9764
+Landmark,in,newcastle,1,9764
+place,to,live,0,10154
+place,to,live,1,10154
+island,in,the world and is considered part,0,10235
+island,in,part,1,10235
+island,in,considered,2,10235
+island,in,is,3,10235
+island,in,world,5,10235
+name,of,airport,0,10287
+name,of,airport,1,10287
+name,of,the camping ground,0,10322
+name,of,ground,1,10322
+name,of,camping,2,10322
+name,of,the nearest city,0,10404
+name,of,city,1,10404
+name,of,nearest,2,10404
+zone,of,The Volcano,0,10512
+zone,of,Volcano,1,10512
+zone,of,The,2,10512
+address,for,admissions,0,10618
+address,for,admissions,1,10618
+center,at,Circus Circus,0,10701
+center,at,Circus,1,10701
+center,at,Circus,2,10701
+name,of,the airport,0,10801
+name,of,airport,1,10801
+address,for,irs,0,11043
+address,for,irs,1,11043
+address,of,sungard availability services located,0,11097
+address,of,located,1,11097
+address,of,services,2,11097
+address,of,availability,3,11097
+address,of,sungard,4,11097
+boundary,of,City,0,11166
+boundary,of,City,1,11166
+place,to,live,0,11402
+place,to,live,1,11402
+name,of,the airport,0,11467
+name,of,airport,1,11467
+material,of,this type,0,11874
+material,of,type,1,11874
+material,of,this,2,11874
+name,of,The Peninsula,0,11902
+name,of,Peninsula,1,11902
+name,of,The,2,11902
+state,to,secede,0,12241
+state,to,secede,1,12241
+name,of,The Basin located,0,12535
+name,of,located,1,12535
+name,of,Basin,2,12535
+name,of,The,3,12535
+route,from,the Atlantic Ocean,0,12628
+route,from,Ocean,1,12628
+route,from,Atlantic,2,12628
+city,in,the world,0,12708
+city,in,world,1,12708
+name,of,the airport,0,12831
+name,of,airport,1,12831
+location,of,the battle,0,12873
+location,of,battle,1,12873
+name,of,the old bellsouth building,0,12955
+name,of,building,1,12955
+name,of,bellsouth,2,12955
+name,of,old,3,12955
+miles,of,the town,0,13154
+miles,of,town,1,13154
+state,of,the death row inmates,0,13556
+state,of,inmates,1,13556
+state,of,row,2,13556
+state,of,death,3,13556
+name,of,the city,0,13589
+name,of,city,1,13589
+station,to,the Grassmarket Hotel,0,13852
+station,to,Hotel,1,13852
+station,to,Grassmarket,2,13852
+airport,to,the Port,0,13853
+airport,to,Port,1,13853
+name,of,the airport,0,14012
+name,of,airport,1,14012
+name,given,to the eastern city states,0,14254
+name,given,states,1,14254
+name,given,city,2,14254
+name,given,eastern,3,14254
+name,given,to,5,14254
+name,of,The Plateau found,0,14325
+name,of,found,1,14325
+name,of,Plateau,2,14325
+name,of,The,3,14325
+ceiling,of,the class d airspace,0,14602
+ceiling,of,airspace,1,14602
+ceiling,of,d,2,14602
+ceiling,of,class,3,14602
+building,on,the Skyline,0,14677
+building,on,Skyline,1,14677
+name,of,the famous bridge,0,14789
+name,of,bridge,1,14789
+name,of,famous,2,14789
+name,of,the airport,0,14951
+name,of,airport,1,14951
+name,of,the airport,0,15298
+name,of,airport,1,15298
+name,of,airport,0,15450
+name,of,airport,1,15450
+location,for,devon a white,0,15534
+location,for,white,1,15534
+location,for,devon,3,15534
+address,of,The President,0,15547
+address,of,President,1,15547
+address,of,The,2,15547
+country,in,Thailand,0,15586
+country,in,Thailand,1,15586
+name,of,the theater,0,15750
+name,of,theater,1,15750
+name,of,The Strip,0,15794
+name,of,Strip,1,15794
+name,of,The,2,15794
+name,of,the wildlife Refuge located,0,15876
+name,of,located,1,15876
+name,of,Refuge,2,15876
+name,of,wildlife,3,15876
+name,of,the air force base,0,16196
+name,of,base,1,16196
+name,of,force,2,16196
+name,of,air,3,16196
+area,of,the city,0,16204
+area,of,city,1,16204
+location,of,Bay,0,16424
+location,of,Bay,1,16424
+name,of,the army hospital,0,16519
+name,of,hospital,1,16519
+name,of,army,2,16519
+Times,for,the library,0,16551
+Times,for,library,1,16551
+name,of,the parking garage,0,16569
+name,of,garage,1,16569
+name,of,parking,2,16569
+name,of,The Sovereign state,0,16722
+name,of,state,1,16722
+name,of,Sovereign,2,16722
+name,of,The,3,16722
+hotel,to,major int l airport,0,16983
+hotel,to,airport,1,16983
+hotel,to,l,2,16983
+hotel,to,int,3,16983
+hotel,to,major,4,16983
+name,of,Yemen  s territory,0,17042
+name,of,territory,1,17042
+name,of,s,2,17042
+name,of,Yemen,3,17042
+name,in,usa,0,17093
+name,in,usa,1,17093
+beach,for,kids,0,17173
+beach,for,kids,1,17173
+name,of,Ontario airport,0,17272
+name,of,airport,1,17272
+name,of,Ontario,2,17272
+name,of,the style,0,17298
+name,of,style,1,17298
+name,of,the airport,0,17305
+name,of,airport,1,17305
+Acreage,of,Longleaf Pines,0,17599
+Acreage,of,Pines,1,17599
+Acreage,of,Longleaf,2,17599
+city,by,population,0,18188
+city,by,population,1,18188
+parish,for,the City,0,18407
+parish,for,City,1,18407
+name,of,airport,0,18640
+name,of,airport,1,18640
+name,of,the airport,0,18756
+name,of,airport,1,18756
+name,of,The Main Street,0,18862
+name,of,Street,1,18862
+name,of,Main,2,18862
+name,of,The,3,18862
+name,of,jack  s casino,0,19272
+name,of,casino,1,19272
+name,of,s,2,19272
+name,of,jack,3,19272
+place,to,visit,0,19724
+place,to,visit,1,19724
+name,of,the building,0,19743
+name,of,building,1,19743
+region,of,the City,0,20001
+region,of,City,1,20001
+location,of,the Comfort Inn,0,20194
+location,of,Inn,1,20194
+location,of,Comfort,2,20194
+county,in,size,0,20470
+county,in,size,1,20470
+name,of,the park,0,20651
+name,of,park,1,20651
+name,of,the airport,0,20679
+name,of,airport,1,20679
+form,of,the ideal state,0,20964
+form,of,state,1,20964
+form,of,ideal,2,20964
+significance,of,Tropic,0,21234
+significance,of,Tropic,1,21234
+address,to,South Shore rehabilitation facility,0,21447
+address,to,facility,1,21447
+address,to,rehabilitation,2,21447
+address,to,Shore,3,21447
+address,to,South,4,21447
+address,of,the Mayo clinic,0,21519
+address,of,clinic,1,21519
+address,of,Mayo,2,21519
+place,to,go,0,21602
+place,to,go,1,21602
+name,of,the airport,0,22449
+name,of,airport,1,22449
+name,of,the airport,0,23161
+name,of,airport,1,23161
+airport,to,the Port,0,23335
+airport,to,Port,1,23335
+seat,of,Franklin County,0,23379
+seat,of,County,1,23379
+seat,of,Franklin,2,23379

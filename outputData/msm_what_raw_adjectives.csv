@@ -1,0 +1,1096 @@
+intent,adjective,distance,qid
+venues,some music ,0,5
+venues,some,2,5
+venues,music,1,5
+ariports,best ,0,6
+ariports,best,1,6
+tax,state income ,0,348
+tax,state,2,348
+tax,income,1,348
+code,airport ,0,352
+code,airport,1,352
+aquarium,biggest ,0,353
+aquarium,biggest,1,353
+bridge,biggest ,0,354
+bridge,biggest,1,354
+state,biggest ,0,355
+state,biggest,1,355
+building,highest commercial ,0,363
+building,highest,2,363
+building,commercial,1,363
+latitude,longitude and ,0,369
+latitude,longitude,2,369
+Thoroughfare,Main ,0,370
+Thoroughfare,Main,1,370
+address,suntrust bank ,0,375
+address,suntrust,2,375
+address,bank,1,375
+town,created when the ,0,450
+town,created,3,450
+town,when,2,450
+region,two largest climate ,0,1134
+region,two,3,1134
+region,largest,2,1134
+region,climate,1,1134
+airport,closest ,0,1353
+airport,closest,1,1353
+District,Financial ,0,1464
+District,Financial,1,1464
+seat,first county ,0,1517
+seat,first,2,1517
+seat,county,1,1517
+point,lowest ,0,1574
+point,lowest,1,1574
+building,brick ,0,1628
+building,brick,1,1628
+city,capital ,0,1693
+city,capital,1,1693
+country,smallest ,0,1704
+country,smallest,1,1704
+island,closest ,0,1769
+island,closest,1,1769
+code,airport ,0,1773
+code,airport,1,1773
+airport,closest ,0,1807
+airport,closest,1,1807
+location,absolute ,0,1837
+location,absolute,1,1837
+region,Piedmont triangle ,0,1897
+region,Piedmont,2,1897
+region,triangle,1,1897
+location,approximate grid ,0,1907
+location,approximate,2,1907
+location,grid,1,1907
+city,most dangerous ,0,1938
+city,most,2,1938
+city,dangerous,1,1938
+place,most amazing ,0,1966
+place,most,2,1966
+place,amazing,1,1966
+attraction,main tourist ,0,1992
+attraction,main,2,1992
+attraction,tourist,1,1992
+city,leading port ,0,2187
+city,leading,2,2187
+city,port,1,2187
+point,highest ,0,2199
+point,highest,1,2199
+city,biggest ,0,2250
+city,biggest,1,2250
+called,restaurant ,0,2283
+called,restaurant,1,2283
+code,airport ,0,2328
+code,airport,1,2328
+city,safest and cheapest ,0,2403
+city,safest,3,2403
+city,cheapest,1,2403
+place,popular ,0,2424
+place,popular,1,2424
+landfill,biggest ,0,2426
+landfill,biggest,1,2426
+place,first ,0,2437
+place,first,1,2437
+point,lowest ,0,2438
+point,lowest,1,2438
+zone,time ,0,2465
+zone,time,1,2465
+county,richest ,0,2469
+county,richest,1,2469
+code,airport ,0,2496
+code,airport,1,2496
+level,sea ,0,2506
+level,sea,1,2506
+place,three historic ,0,2614
+place,three,2,2614
+place,historic,1,2614
+region,two ,0,2615
+region,two,1,2615
+name,city ,0,2637
+name,city,1,2637
+island,four largest ,0,2651
+island,four,2,2651
+island,largest,1,2651
+airport,closest ,0,2817
+airport,closest,1,2817
+code,country ,0,2850
+code,country,1,2850
+region,major climate ,0,2978
+region,major,2,2978
+region,climate,1,2978
+city,largest ,0,3025
+city,largest,1,3025
+area,ski ,0,3076
+area,ski,1,3076
+Landmarks,historical ,0,3392
+Landmarks,historical,1,3392
+located,Angkor Wat ,0,3456
+located,Angkor,2,3456
+located,Wat,1,3456
+Airport,closest International ,0,3481
+Airport,closest,2,3481
+Airport,International,1,3481
+airport,closest ,0,3746
+airport,closest,1,3746
+center,city ,0,3813
+center,city,1,3813
+called,Hat Island ,0,3920
+called,Hat,2,3920
+called,Island,1,3920
+county,fastest growing ,0,3939
+county,fastest,2,3939
+county,growing,1,3939
+region,five distinct geographic ,0,4119
+region,five,3,4119
+region,distinct,2,4119
+region,geographic,1,4119
+city,other ,0,4153
+city,other,1,4153
+city,some ,0,4189
+city,some,1,4189
+like,Beaches ,0,4215
+like,Beaches,1,4215
+off,Islands ,0,4267
+off,Islands,1,4267
+region,three climate ,0,4349
+region,three,2,4349
+region,climate,1,4349
+fort,three military ,0,4352
+fort,three,2,4352
+fort,military,1,4352
+attraction,tourist ,0,4355
+attraction,tourist,1,4355
+airport,closest ,0,4378
+airport,closest,1,4378
+code,hartford county zip ,0,4389
+code,hartford,3,4389
+code,county,2,4389
+code,zip,1,4389
+airport,closest ,0,4451
+airport,closest,1,4451
+region,administrative ,0,5316
+region,administrative,1,5316
+borders,international ,0,5425
+borders,international,1,5425
+code,airport ,0,5440
+code,airport,1,5440
+airport,closest ,0,5778
+airport,closest,1,5778
+parts,coldest ,0,5820
+parts,coldest,1,5820
+Town,considered the ,0,5869
+Town,considered,2,5869
+called,county ,0,6084
+called,county,1,6084
+city,safest ,0,6125
+city,safest,1,6125
+region,four different ,0,6167
+region,four,2,6167
+region,different,1,6167
+mixes,partially enclosed region where sea water ,0,6287
+mixes,partially,6,6287
+mixes,enclosed,5,6287
+mixes,region,4,6287
+mixes,where,3,6287
+mixes,sea,2,6287
+mixes,water,1,6287
+district,border ,0,6292
+district,border,1,6292
+north,90 miles ,0,6509
+north,90,2,6509
+north,miles,1,6509
+Creek,City ,0,6854
+Creek,City,1,6854
+airport,closest ,0,7020
+airport,closest,1,7020
+called,beach near LIghthouse ,0,7067
+called,beach,3,7067
+called,near,2,7067
+called,LIghthouse,1,7067
+Landmarks,major human made ,0,7269
+Landmarks,major,3,7269
+Landmarks,human,2,7269
+Landmarks,made,1,7269
+tax,state sales ,0,7279
+tax,state,2,7279
+tax,sales,1,7279
+Park,best Theme ,0,7358
+Park,best,2,7358
+Park,Theme,1,7358
+city,largest ,0,7371
+city,largest,1,7371
+Mansion,biggest ,0,7375
+Mansion,biggest,1,7375
+zone,climate ,0,7402
+zone,climate,1,7402
+airport,closest ,0,7406
+airport,closest,1,7406
+airport,closest ,0,7407
+airport,closest,1,7407
+state,closest ,0,7408
+state,closest,1,7408
+seat,county ,0,7440
+seat,county,1,7440
+seat,county ,0,7442
+seat,county,1,7442
+seat,county ,0,7444
+seat,county,1,7444
+level,highest point above sea ,0,7590
+level,highest,4,7590
+level,point,3,7590
+level,above,2,7590
+level,sea,1,7590
+longitude,latitude and ,0,7632
+longitude,latitude,2,7632
+longitude,latitude and ,0,7633
+longitude,latitude,2,7633
+latitude,longitude and ,0,7649
+latitude,longitude,2,7649
+region,physical ,0,7703
+region,physical,1,7703
+place,most haunted ,0,7715
+place,most,2,7715
+place,haunted,1,7715
+airport,nearest ,0,7760
+airport,nearest,1,7760
+state,official ,0,7776
+state,official,1,7776
+States,names Four ,0,7871
+States,names,2,7871
+States,Four,1,7871
+route,southern ,0,7907
+route,southern,1,7907
+tower,tallest ,0,7930
+tower,tallest,1,7930
+zone,time ,0,7949
+zone,time,1,7949
+zone,time ,0,7950
+zone,time,1,7950
+zone,time ,0,7951
+zone,time,1,7951
+building,demcon ,0,7959
+building,demcon,1,7959
+attractions,three tourist ,0,8411
+attractions,three,2,8411
+attractions,tourist,1,8411
+brought,Solomon Island people ,0,8575
+brought,Solomon,3,8575
+brought,Island,2,8575
+brought,people,1,8575
+city,largest ,0,8694
+city,largest,1,8694
+Citadel,on The ,0,8741
+Citadel,on,2,8741
+Citadel,The,1,8741
+settlement,first european ,0,8767
+settlement,first,2,8767
+settlement,european,1,8767
+country,largest ,0,8772
+country,largest,1,8772
+territory,last ,0,8773
+territory,last,1,8773
+region,Pine belt ,0,8848
+region,Pine,2,8848
+region,belt,1,8848
+near,Felts Park located ,0,8858
+near,Felts,3,8858
+near,Park,2,8858
+near,located,1,8858
+cost,it ,0,8863
+cost,it,1,8863
+water,considered ,0,8910
+water,considered,1,8910
+continent,five ,0,8917
+continent,five,1,8917
+island,biggest ,0,9036
+island,biggest,1,9036
+waterfall,tallest ,0,9049
+waterfall,tallest,1,9049
+point,lowest ,0,9060
+point,lowest,1,9060
+region,westernmost ,0,9166
+region,westernmost,1,9166
+point,lowest ,0,9171
+point,lowest,1,9171
+LIghthouse,tallest ,0,9184
+LIghthouse,tallest,1,9184
+called,airport ,0,9205
+called,airport,1,9205
+residence,official ,0,9255
+residence,official,1,9255
+fair,oldest county ,0,9312
+fair,oldest,2,9312
+fair,county,1,9312
+city,capital ,0,9320
+city,capital,1,9320
+airport,closest major ,0,9327
+airport,closest,2,9327
+airport,major,1,9327
+code,county ,0,9450
+code,county,1,9450
+destination,popular tourist ,0,9508
+destination,popular,2,9508
+destination,tourist,1,9508
+seat,county ,0,9515
+seat,county,1,9515
+area,catchment ,0,9589
+area,catchment,1,9589
+town,closest ,0,9594
+town,closest,1,9594
+town,tax ,0,9609
+town,tax,1,9609
+east,ocean ,0,9643
+east,ocean,1,9643
+Landmark,largest ,0,9764
+Landmark,largest,1,9764
+point,lowest ,0,10114
+point,lowest,1,10114
+airport,nearest major ,0,10150
+airport,nearest,2,10150
+airport,major,1,10150
+place,most expensive ,0,10154
+place,most,2,10154
+place,expensive,1,10154
+airport,closest major ,0,10187
+airport,closest,2,10187
+airport,major,1,10187
+city,capital ,0,10234
+city,capital,1,10234
+island,fourth largest ,0,10235
+island,fourth,2,10235
+island,largest,1,10235
+code,airport ,0,10264
+code,airport,1,10264
+parade,biggest ,0,10269
+parade,biggest,1,10269
+code,airport ,0,10317
+code,airport,1,10317
+map,permease ,0,10440
+map,permease,1,10440
+address,mailing ,0,10618
+address,mailing,1,10618
+zone,time ,0,10627
+zone,time,1,10627
+Base,largest Military ,0,10698
+Base,largest,2,10698
+Base,Military,1,10698
+center,shopping ,0,10701
+center,shopping,1,10701
+nation,last ,0,10716
+nation,last,1,10716
+built,First Hotel casino ,0,10727
+built,First,3,10727
+built,Hotel,2,10727
+built,casino,1,10727
+located,Central Park called ,0,10820
+located,Central,3,10820
+located,Park,2,10820
+located,called,1,10820
+Island,Holy ,0,10873
+Island,Holy,1,10873
+code,airport ,0,10875
+code,airport,1,10875
+airport,closest ,0,10881
+airport,closest,1,10881
+building,tallest ,0,10893
+building,tallest,1,10893
+airport,closest ,0,10933
+airport,closest,1,10933
+airport,closest ,0,10980
+airport,closest,1,10980
+address,mailing ,0,11043
+address,mailing,1,11043
+Stadium,oldest Baseball ,0,11047
+Stadium,oldest,2,11047
+Stadium,Baseball,1,11047
+island,largest ,0,11056
+island,largest,1,11056
+province,smallest ,0,11182
+province,smallest,1,11182
+Eurostar,closest Marriott Hotel near the ,0,11183
+Eurostar,closest,5,11183
+Eurostar,Marriott,4,11183
+Eurostar,Hotel,3,11183
+Eurostar,near,2,11183
+county,largest ,0,11218
+county,largest,1,11218
+airport,closest ,0,11222
+airport,closest,1,11222
+building,tallest ,0,11234
+building,tallest,1,11234
+area,affluent ,0,11321
+area,affluent,1,11321
+mall,largest ,0,11332
+mall,largest,1,11332
+place,most expensive ,0,11402
+place,most,2,11402
+place,expensive,1,11402
+hall,oldest dance ,0,11411
+hall,oldest,2,11411
+hall,dance,1,11411
+restaurant,oldest ,0,11436
+restaurant,oldest,1,11436
+point,lowest ,0,11437
+point,lowest,1,11437
+building,Pie shaped ,0,11444
+building,Pie,2,11444
+building,shaped,1,11444
+airport,closest ,0,11504
+airport,closest,1,11504
+city,capital and the largest ,0,11587
+city,capital,4,11587
+city,largest,1,11587
+abbreviation,airport ,0,11654
+abbreviation,airport,1,11654
+airport,closest ,0,11712
+airport,closest,1,11712
+state,first ,0,11736
+state,first,1,11736
+capital,our second ,0,11745
+capital,our,2,11745
+capital,second,1,11745
+airport,closest ,0,11773
+airport,closest,1,11773
+problem,ocean water ,0,11873
+problem,ocean,2,11873
+problem,water,1,11873
+material,source ,0,11874
+material,source,1,11874
+building,new tall ,0,11878
+building,new,2,11878
+building,tall,1,11878
+State,Free ,0,11896
+State,Free,1,11896
+point,highest ,0,11949
+point,highest,1,11949
+airport,closest ,0,11980
+airport,closest,1,11980
+airport,closest ,0,11987
+airport,closest,1,11987
+airport,closest ,0,12013
+airport,closest,1,12013
+city,biggest ,0,12052
+city,biggest,1,12052
+airport,closest ,0,12090
+airport,closest,1,12090
+point,highest ,0,12152
+point,highest,1,12152
+city,largest ,0,12166
+city,largest,1,12166
+city,closest us ,0,12184
+city,closest,2,12184
+city,us,1,12184
+state,third ,0,12241
+state,third,1,12241
+is,county ,0,12321
+is,county,1,12321
+city,largest ,0,12322
+city,largest,1,12322
+seat,county ,0,12409
+seat,county,1,12409
+church,oldest ,0,12418
+church,oldest,1,12418
+tonight,football score ,0,12488
+tonight,football,2,12488
+tonight,score,1,12488
+point,lowest ,0,12491
+point,lowest,1,12491
+nickname,state ,0,12498
+nickname,state,1,12498
+state,smallest populated ,0,12518
+state,smallest,2,12518
+state,populated,1,12518
+airport,nearest ,0,12545
+airport,nearest,1,12545
+building,pcc ,0,12584
+building,pcc,1,12584
+climate,normal ,0,12602
+climate,normal,1,12602
+route,shortest ,0,12628
+route,shortest,1,12628
+city,northernmost ,0,12708
+city,northernmost,1,12708
+location,common ,0,12738
+location,common,1,12738
+airport,main ,0,12773
+airport,main,1,12773
+area,land ,0,12781
+area,land,1,12781
+airport,closest ,0,12839
+airport,closest,1,12839
+size,location and ,0,12842
+size,location,2,12842
+airport,closest ,0,12883
+airport,closest,1,12883
+region,urethra ,0,12919
+region,urethra,1,12919
+called,light rail transportation ,0,12936
+called,light,3,12936
+called,rail,2,12936
+called,transportation,1,12936
+city,closest ,0,12994
+city,closest,1,12994
+country,safest ,0,13022
+country,safest,1,13022
+closest,wine area ,0,13046
+closest,wine,2,13046
+closest,area,1,13046
+building,clock ,0,13133
+building,clock,1,13133
+miles,Square ,0,13154
+miles,Square,1,13154
+zone,climatic ,0,13168
+zone,climatic,1,13168
+code,airport ,0,13187
+code,airport,1,13187
+zone,time ,0,13207
+zone,time,1,13207
+zone,time ,0,13217
+zone,time,1,13217
+Point,farthest East ,0,13306
+Point,farthest,2,13306
+Point,East,1,13306
+City,o   m ,0,13310
+City,o,2,13310
+City,m,1,13310
+cathedral,oldest ,0,13311
+cathedral,oldest,1,13311
+abbreviation,state ,0,13366
+abbreviation,state,1,13366
+city,ancient turkish ,0,13398
+city,ancient,2,13398
+city,turkish,1,13398
+province,geographic ,0,13433
+province,geographic,1,13433
+airport,nearest ,0,13473
+airport,nearest,1,13473
+month,driest ,0,13588
+month,driest,1,13588
+town,warmest ,0,13619
+town,warmest,1,13619
+airport,closest ,0,13624
+airport,closest,1,13624
+code,airport ,0,13682
+code,airport,1,13682
+port,largest ,0,13752
+port,largest,1,13752
+region,climate ,0,13824
+region,climate,1,13824
+area,most populated ,0,13830
+area,most,2,13830
+area,populated,1,13830
+level,sea ,0,13851
+level,sea,1,13851
+station,closest Tram ,0,13852
+station,closest,2,13852
+station,Tram,1,13852
+airport,closest ,0,13853
+airport,closest,1,13853
+zone,time ,0,13861
+zone,time,1,13861
+code,airport ,0,13862
+code,airport,1,13862
+yesterday,temperature ,0,13865
+yesterday,temperature,1,13865
+zone,planting ,0,13892
+zone,planting,1,13892
+island,biggest ,0,13951
+island,biggest,1,13951
+ariports,closest ,0,13963
+ariports,closest,1,13963
+country,smallest ,0,13970
+country,smallest,1,13970
+code,airport ,0,14027
+code,airport,1,14027
+trip,first quick ,0,14056
+trip,first,2,14056
+trip,quick,1,14056
+attraction,big ,0,14133
+attraction,big,1,14133
+place,most photographed ,0,14179
+place,most,2,14179
+place,photographed,1,14179
+Building,john Hancock ,0,14192
+Building,john,2,14192
+Building,Hancock,1,14192
+beach,closest ,0,14215
+beach,closest,1,14215
+abbreviation,foreign ,0,14223
+abbreviation,foreign,1,14223
+name,collective ,0,14254
+name,collective,1,14254
+city,most beautiful ,0,14349
+city,most,2,14349
+city,beautiful,1,14349
+Outpost,early ,0,14354
+Outpost,early,1,14354
+city,largest ,0,14363
+city,largest,1,14363
+city,closest ,0,14418
+city,closest,1,14418
+Airport,International ,0,14458
+Airport,International,1,14458
+airport,closest ,0,14474
+airport,closest,1,14474
+bay,biggest ,0,14571
+bay,biggest,1,14571
+town,northernmost ,0,14628
+town,northernmost,1,14628
+flag,state ,0,14630
+flag,state,1,14630
+point,lowest and the highest ,0,14650
+point,lowest,4,14650
+point,highest,1,14650
+airport,nearest ,0,14672
+airport,nearest,1,14672
+building,Pyramid shaped ,0,14677
+building,Pyramid,2,14677
+building,shaped,1,14677
+hotel,most expensive ,0,14829
+hotel,most,2,14829
+hotel,expensive,1,14829
+point,lowest ,0,14854
+point,lowest,1,14854
+tax,state ,0,14899
+tax,state,1,14899
+longitude,latitude and ,0,14967
+longitude,latitude,2,14967
+airport,closest ,0,14986
+airport,closest,1,14986
+Plantation,largest ,0,15025
+Plantation,largest,1,15025
+airport,closest large ,0,15036
+airport,closest,2,15036
+airport,large,1,15036
+airport,closest ,0,15064
+airport,closest,1,15064
+city,largest ,0,15086
+city,largest,1,15086
+area,geological ,0,15151
+area,geological,1,15151
+county,largest ,0,15216
+county,largest,1,15216
+city,southernmost capital ,0,15246
+city,southernmost,2,15246
+city,capital,1,15246
+neighborhood,worst ,0,15253
+neighborhood,worst,1,15253
+airport,nearest ,0,15295
+airport,nearest,1,15295
+airport,closest ,0,15395
+airport,closest,1,15395
+low,historic ,0,15460
+low,historic,1,15460
+city,capital ,0,15473
+city,capital,1,15473
+point,highest ,0,15526
+point,highest,1,15526
+address,mailing ,0,15547
+address,mailing,1,15547
+Base,largest Military ,0,15564
+Base,largest,2,15564
+Base,Military,1,15564
+country,closest ,0,15586
+country,closest,1,15586
+building,oldest ,0,15609
+building,oldest,1,15609
+level,snow ,0,15626
+level,snow,1,15626
+established,first city ,0,15640
+established,first,2,15640
+established,city,1,15640
+airport,closest ,0,15757
+airport,closest,1,15757
+airport,closest ,0,15766
+airport,closest,1,15766
+building,tallest ,0,15854
+building,tallest,1,15854
+admitted,last state ,0,15917
+admitted,last,2,15917
+admitted,state,1,15917
+area,original themed ,0,15964
+area,original,2,15964
+area,themed,1,15964
+city,farthest ,0,15974
+city,farthest,1,15974
+City,state where the ,0,15979
+City,state,3,15979
+City,where,2,15979
+city,biggest ,0,15994
+city,biggest,1,15994
+location,relative ,0,15996
+location,relative,1,15996
+airport,closest ,0,16031
+airport,closest,1,16031
+called,region ,0,16090
+called,region,1,16090
+airport,closest major ,0,16110
+airport,closest,2,16110
+airport,major,1,16110
+abbreviation,country ,0,16137
+abbreviation,country,1,16137
+area,most beautiful ,0,16156
+area,most,2,16156
+area,beautiful,1,16156
+area,geographical ,0,16204
+area,geographical,1,16204
+airport,closest major ,0,16231
+airport,closest,2,16231
+airport,major,1,16231
+hotel,oldest ,0,16293
+hotel,oldest,1,16293
+county,largest ,0,16400
+county,largest,1,16400
+attraction,most exciting tourist ,0,16429
+attraction,most,3,16429
+attraction,exciting,2,16429
+attraction,tourist,1,16429
+state,biggest ,0,16440
+state,biggest,1,16440
+location,relative ,0,16481
+location,relative,1,16481
+hotel,closest ,0,16506
+hotel,closest,1,16506
+place,coldest ,0,16508
+place,coldest,1,16508
+airport,nearest ,0,16517
+airport,nearest,1,16517
+code,city ,0,16556
+code,city,1,16556
+Point,Halfway ,0,16557
+Point,Halfway,1,16557
+month,coldest ,0,16572
+month,coldest,1,16572
+airport,main ,0,16582
+airport,main,1,16582
+seat,county ,0,16639
+seat,county,1,16639
+point,widest ,0,16712
+point,widest,1,16712
+island,most populous ,0,16769
+island,most,2,16769
+island,populous,1,16769
+point,highest ,0,16848
+point,highest,1,16848
+location,absolute ,0,16965
+location,absolute,1,16965
+building,most famous ,0,16968
+building,most,2,16968
+building,famous,1,16968
+founded,first state ,0,16980
+founded,first,2,16980
+founded,state,1,16980
+hotel,closest all inclusive ,0,16983
+hotel,closest,3,16983
+hotel,all,2,16983
+hotel,inclusive,1,16983
+airport,nearest ,0,17038
+airport,nearest,1,17038
+airport,closest ,0,17073
+airport,closest,1,17073
+seat,county ,0,17078
+seat,county,1,17078
+name,airport ,0,17093
+name,airport,1,17093
+zone,time ,0,17101
+zone,time,1,17101
+beach,best ,0,17173
+beach,best,1,17173
+airport,closest ,0,17210
+airport,closest,1,17210
+time,local ,0,17233
+time,local,1,17233
+slogan,state ,0,17337
+slogan,state,1,17337
+city,closest ,0,17446
+city,closest,1,17446
+longitude,latitude and ,0,17461
+longitude,latitude,2,17461
+habitat,biggest ,0,17469
+habitat,biggest,1,17469
+point,highest ,0,17472
+point,highest,1,17472
+city,biggest ,0,17517
+city,biggest,1,17517
+hazards,top 10 ,0,17559
+hazards,top,2,17559
+hazards,10,1,17559
+county,most expensive ,0,17577
+county,most,2,17577
+county,expensive,1,17577
+Acreage,historic range and ,0,17599
+Acreage,historic,3,17599
+Acreage,range,2,17599
+House,Tap ,0,17611
+House,Tap,1,17611
+airport,nearest ,0,17716
+airport,nearest,1,17716
+Street,Main ,0,17725
+Street,Main,1,17725
+airport,closest ,0,17816
+airport,closest,1,17816
+population,biggest city ,0,17874
+population,biggest,2,17874
+population,city,1,17874
+station,closest ,0,17882
+station,closest,1,17882
+point,highest ,0,17903
+point,highest,1,17903
+airport,nearest ,0,17922
+airport,nearest,1,17922
+airport,closest ,0,17941
+airport,closest,1,17941
+location,the ,0,17948
+town,biggest ,0,17959
+town,biggest,1,17959
+area,roughest ,0,18008
+area,roughest,1,18008
+basin,ocean ,0,18065
+basin,ocean,1,18065
+airport,closest ,0,18070
+airport,closest,1,18070
+station,closest railway ,0,18071
+station,closest,2,18071
+station,railway,1,18071
+called,island ,0,18084
+called,island,1,18084
+city,largest ,0,18188
+city,largest,1,18188
+airport,closest ,0,18218
+airport,closest,1,18218
+point,highest ,0,18226
+point,highest,1,18226
+city,largest ,0,18235
+city,largest,1,18235
+beach,closest ,0,18303
+beach,closest,1,18303
+city,neighboring ,0,18320
+city,neighboring,1,18320
+road,longest ,0,18374
+road,longest,1,18374
+city,safest ,0,18441
+city,safest,1,18441
+airport,closest ,0,18464
+airport,closest,1,18464
+city,oldest ,0,18484
+city,oldest,1,18484
+bowl,Brooklyn ,0,18502
+bowl,Brooklyn,1,18502
+address,doylay Cartes ,0,18651
+address,doylay,2,18651
+address,Cartes,1,18651
+state,first us ,0,18747
+state,first,2,18747
+state,us,1,18747
+Station,closest Bus ,0,18813
+Station,closest,2,18813
+Station,Bus,1,18813
+airport,main ,0,18842
+airport,main,1,18842
+location,relative ,0,18863
+location,relative,1,18863
+area,pedestrian ,0,18892
+area,pedestrian,1,18892
+place,nearest pizza ,0,18960
+place,nearest,2,18960
+place,pizza,1,18960
+bridge,longest ,0,18986
+bridge,longest,1,18986
+Airport,International ,0,19020
+Airport,International,1,19020
+name,state ,0,19263
+name,state,1,19263
+abbreviation,airport ,0,19269
+abbreviation,airport,1,19269
+name,prior ,0,19272
+name,prior,1,19272
+place,hottest ,0,19304
+place,hottest,1,19304
+configuration,Ground state ,0,19313
+configuration,Ground,2,19313
+configuration,state,1,19313
+Airport,International ,0,19374
+Airport,International,1,19374
+location,exact ,0,19447
+location,exact,1,19447
+city,capital ,0,19505
+city,capital,1,19505
+district,5th ,0,19518
+district,5th,1,19518
+called,region ,0,19535
+called,region,1,19535
+abbreviation,state ,0,19553
+abbreviation,state,1,19553
+resort,rated most exclusive ,0,19564
+resort,rated,3,19564
+resort,most,2,19564
+resort,exclusive,1,19564
+region,smallest ,0,19616
+region,smallest,1,19616
+Centre,City ,0,19658
+Centre,City,1,19658
+airport,main ,0,19683
+airport,main,1,19683
+point,highest ,0,19684
+point,highest,1,19684
+place,best ,0,19724
+place,best,1,19724
+city,most populated ,0,19746
+city,most,2,19746
+city,populated,1,19746
+area,big produce ,0,19751
+area,big,2,19751
+area,produce,1,19751
+city,most populous ,0,19817
+city,most,2,19817
+city,populous,1,19817
+airport,closest ,0,19948
+airport,closest,1,19948
+city,largest ,0,19955
+city,largest,1,19955
+state,second largest ,0,19991
+state,second,2,19991
+state,largest,1,19991
+town,smallest ,0,20054
+town,smallest,1,20054
+name,longest place ,0,20092
+name,longest,2,20092
+name,place,1,20092
+month,windiest ,0,20153
+month,windiest,1,20153
+beach,closest ,0,20193
+beach,closest,1,20193
+called,Beach ,0,20253
+called,Beach,1,20253
+state,largest populated ,0,20295
+state,largest,2,20295
+state,populated,1,20295
+bridge,tallest ,0,20333
+bridge,tallest,1,20333
+airport,closest ,0,20340
+airport,closest,1,20340
+city,best ,0,20456
+city,best,1,20456
+county,largest ,0,20470
+county,largest,1,20470
+seat,county ,0,20499
+seat,county,1,20499
+city,capital ,0,20517
+city,capital,1,20517
+Airport,International ,0,20617
+Airport,International,1,20617
+latitude,longitude and ,0,20644
+latitude,longitude,2,20644
+code,airport ,0,20657
+code,airport,1,20657
+is,city which ,0,20668
+is,city,2,20668
+is,which,1,20668
+house,small ,0,20744
+house,small,1,20744
+point,highest ,0,20770
+point,highest,1,20770
+airport,big ,0,20810
+airport,big,1,20810
+point,highest ,0,20821
+point,highest,1,20821
+casino,longest running hotel and ,0,20889
+casino,longest,4,20889
+casino,running,3,20889
+casino,hotel,2,20889
+form,long ,0,20920
+form,long,1,20920
+zone,time ,0,21137
+zone,time,1,21137
+airport,closest ,0,21165
+airport,closest,1,21165
+code,airport ,0,21168
+code,airport,1,21168
+significance,location and ,0,21234
+significance,location,2,21234
+located,Three Islands ,0,21267
+located,Three,2,21267
+located,Islands,1,21267
+landmass,closest ,0,21278
+landmass,closest,1,21278
+airport,closest ,0,21309
+airport,closest,1,21309
+state,smallest ,0,21341
+state,smallest,1,21341
+month,coldest ,0,21476
+month,coldest,1,21476
+airport,closest ,0,21585
+airport,closest,1,21585
+city,largest ,0,21591
+city,largest,1,21591
+place,biggest ,0,21602
+place,biggest,1,21602
+building,tallest ,0,21631
+building,tallest,1,21631
+location,relative ,0,21644
+location,relative,1,21644
+withholding,state tax ,0,21693
+withholding,state,2,21693
+withholding,tax,1,21693
+town,poorest ,0,21761
+town,poorest,1,21761
+state,biggest federal ,0,21797
+state,biggest,2,21797
+state,federal,1,21797
+code,airport ,0,22397
+code,airport,1,22397
+called,capital city ,0,22399
+called,capital,2,22399
+called,city,1,22399
+town,smallest ,0,22423
+town,smallest,1,22423
+territory,last province or ,0,22608
+territory,last,3,22608
+territory,province,2,22608
+territory,or,1,22608
+state,biggest ,0,22629
+state,biggest,1,22629
+Island,considered The Big ,0,22639
+Island,considered,3,22639
+Island,The,2,22639
+Island,Big,1,22639
+province,state or ,0,22672
+province,state,2,22672
+province,or,1,22672
+region,different ,0,22870
+region,different,1,22870
+Club,newest marriott vacation ,0,23096
+Club,newest,3,23096
+Club,marriott,2,23096
+Club,vacation,1,23096
+state,smallest ,0,23174
+state,smallest,1,23174
+point,highest ,0,23206
+point,highest,1,23206
+airport,closest ,0,23226
+airport,closest,1,23226
+city,biggest ,0,23288
+city,biggest,1,23288
+airport,closest ,0,23335
+airport,closest,1,23335
+seat,county ,0,23379
+seat,county,1,23379
+state,last ,0,23387
+state,last,1,23387
+borough,closest ,0,23389
+borough,closest,1,23389
+airport,closest ,0,23397
+airport,closest,1,23397
+island,main ,0,23453
+island,main,1,23453
+region,smallest landform ,0,23501
+region,smallest,2,23501
+region,landform,1,23501
+cemetery,largest ,0,23577
+cemetery,largest,1,23577
+airport,closest ,0,23638
+airport,closest,1,23638
+countrys,two different ,0,24114
+countrys,two,2,24114
+countrys,different,1,24114
+code,airport ,0,24522
+code,airport,1,24522

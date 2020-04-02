@@ -1,0 +1,508 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#"
+     xml:base="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	 xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:sqpo="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#">
+    <owl:Ontology rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl">
+        <rdfs:comment xml:lang="en">This ontology is for spatial patterns used in What spatial-analytic questions.</rdfs:comment>
+    </owl:Ontology>
+	
+	<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasQuestion -->
+	<!-- [SC] technically it is possible for a sentence to have more than one intent or object phrases -->
+
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasQuestion">
+        <owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inCorpus"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Corpus"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Question"/>
+        <rdfs:comment xml:lang="en">Any question</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inCorpus -->
+
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inCorpus">
+        <rdfs:comment xml:lang="en">The inverse of hasQuestion</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasPhrase -->
+	<!-- [SC] technically it is possible for a sentence to have more than one intent or object phrases -->
+
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasPhrase">
+        <owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inQuestion"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Question"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase"/>
+        <rdfs:comment xml:lang="en">Any phrase in question</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inQuestion -->
+
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inQuestion">
+        <rdfs:comment xml:lang="en">The inverse of hasPhrase</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#before -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#before">
+        <owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#after"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#IntentPhrase"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectPhrase"/>
+        <rdfs:comment xml:lang="en">Intent phrase precedes object phrase</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#after -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#after">
+        <rdfs:comment xml:lang="en">The inverse of before</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasWord -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasWord">
+        <owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inPhrase"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word"/>
+        <rdfs:comment xml:lang="en">Any word in a phrase</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inPhrase -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inPhrase">
+        <rdfs:comment xml:lang="en">The inverse of hasWord</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasIntent -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasIntent">
+		<rdfs:subPropertyOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasWord"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#IntentPhrase"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent"/>
+        <rdfs:comment xml:lang="en">Intent word in an intent phrase</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasObject -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasObject">
+		<rdfs:subPropertyOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasWord"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectPhrase"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object"/>
+        <rdfs:comment xml:lang="en">Object word in an object phrase</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasRelation -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasRelation">
+		<rdfs:subPropertyOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasWord"/>
+        <rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectPhrase"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation"/>
+        <rdfs:comment xml:lang="en">Relation word in an object phrase</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifiedBy -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifiedBy">
+		<owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifies"/>
+		<rdfs:domain>
+			<owl:Class>    
+				<owl:unionOf rdf:parseType="Collection">
+					<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent"/>
+					<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object"/>
+					<!-- <owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Adjective"/> -->
+				</owl:unionOf>
+			</owl:Class>    
+		</rdfs:domain>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Adjective"/>
+        <rdfs:comment xml:lang="en">Adjective that modifies current word (intent or object)</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifies -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifies">
+        <rdfs:comment xml:lang="en">The inverse of modifiedBy</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#follows -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#follows">
+		<owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#followedBy"/>
+		<rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent"/>
+        <rdfs:comment xml:lang="en">Relation that follows the intent</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#followedBy -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#followedBy">
+        <rdfs:comment xml:lang="en">The inverse of follows</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precedes -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precedes">
+		<owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precededBy"/>
+		<rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object"/>
+        <rdfs:comment xml:lang="en">Relation that precedes the object</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precededBy -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precededBy">
+        <rdfs:comment xml:lang="en">The inverse of precedes</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targets -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targets">
+		<owl:inverseOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targetedBy"/>
+		<rdfs:domain rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent"/>
+        <rdfs:range rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object"/>
+        <rdfs:comment xml:lang="en">Object of intent</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targetedBy -->
+	
+	<owl:ObjectProperty rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targetedBy">
+        <rdfs:comment xml:lang="en">The inverse of targets</rdfs:comment>
+    </owl:ObjectProperty>
+	
+	
+	
+	<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Corpus -->
+	
+
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Corpus">
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasQuestion"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Corpus of questions</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Question -->
+	
+
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Question">
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasPhrase"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inCorpus"/>
+				<owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Spatial question</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase">
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasWord"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inQuestion"/>
+				<owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:comment xml:lang="en">A phrase in a question</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#IntentPhrase -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#IntentPhrase">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase"/>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#before"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasIntent"/>
+				<owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Intent phrase of the question</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectPhrase -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectPhrase">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase"/>
+		<rdfs:subClassOf>
+			<owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#after"/>
+				<owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+			</owl:Restriction>
+		</rdfs:subClassOf>
+		<rdfs:subClassOf>
+			<owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasObject"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+		</rdfs:subClassOf>
+		<rdfs:subClassOf>
+			<owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#hasRelation"/>
+				<owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+			</owl:Restriction>
+		</rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Object phrase that follows the intent phrase</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word -->
+	
+	<!-- [SC] note that the term 'word' is used rather than 'type' or 'token' from linguistics to avoid misconceptions -->
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word">
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#inPhrase"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">A word in a question</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word"/>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifiedBy"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#followedBy"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targets"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Intent word in the intent phrase</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Adjective -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Adjective">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word"/>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifies"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Any adjective that occures in the question</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word"/>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#modifiedBy"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precededBy"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#targetedBy"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Object word within the object phrase</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word"/>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#follows"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+		<rdfs:subClassOf>
+            <owl:Restriction>
+				<owl:onProperty rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#precedes"/>
+				<owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
+			</owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Relation that connects the intent and the object</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#SimpleObjectRelation -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#SimpleObjectRelation">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation"/>
+        <rdfs:comment xml:lang="en">Relation that connects to a single object word for example for</rdfs:comment>
+    </owl:Class>
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ComplexObjectRelation -->
+	
+	<owl:Class rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ComplexObjectRelation">
+		<rdfs:subClassOf rdf:resource="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation"/>
+        <rdfs:comment xml:lang="en">Relation that connects to two or more object words for example between</rdfs:comment>
+    </owl:Class>
+
+	<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+	
+	
+	
+	<!-- https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl# -->
+	
+	<rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Corpus"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Question"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Phrase"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Word"/>
+        </owl:members>
+    </rdf:Description>
+	
+	<rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#IntentPhrase"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectPhrase"/>
+            
+            <rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Intent"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Adjective"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#Object"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ObjectRelation"/>
+        </owl:members>
+    </rdf:Description>
+	
+	<rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#SimpleObjectRelation"/>
+			<rdf:Description rdf:about="https://bcogs.info/schemas/SpatialQuestionPatternOntology.owl#ComplexObjectRelation"/>
+        </owl:members>
+    </rdf:Description>
+
+	<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+	
+</rdf:RDF>

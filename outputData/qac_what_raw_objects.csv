@@ -1,0 +1,695 @@
+intent,relation,object,distance,qid
+locations,of,individual crimes,0,18
+locations,of,crimes,1,18
+locations,of,individual,2,18
+locations,of,fire stations,0,23
+locations,of,stations,1,23
+locations,of,fire,2,23
+trajectory,of,a hurricane,0,30
+trajectory,of,hurricane,1,30
+condition,of,the water treatment plant,0,59
+condition,of,plant,1,59
+condition,of,treatment,2,59
+condition,of,water,3,59
+pattern,of,public spending,0,62
+pattern,of,spending,1,62
+pattern,of,public,2,62
+impact,within,100 yards,0,65
+impact,within,yards,1,65
+impact,within,100,2,65
+site,for,the new landfill,0,66
+site,for,landfill,1,66
+site,for,new,2,66
+relationship,between,"the local microclimate, local factories, and the social structure",0,67
+relationship,between,structure,1,67
+relationship,between,social,2,67
+relationship,between,"factories,",5,67
+relationship,between,local,6,67
+relationship,between,"microclimate,",7,67
+relationship,between,local,8,67
+need,to,adapt,0,68
+need,to,adapt,1,68
+effect,on,traffic flows,0,74
+effect,on,flows,1,74
+effect,on,traffic,2,74
+consequences,of,farming,0,76
+consequences,of,farming,1,76
+flow,of,traffic,0,82
+flow,of,traffic,1,82
+pattern,of,land use,0,87
+pattern,of,use,1,87
+pattern,of,land,2,87
+flow,of,traffic,0,88
+flow,of,traffic,1,88
+impact,on,our closest existing store,0,94
+impact,on,store,1,94
+impact,on,existing,2,94
+impact,on,closest,3,94
+impact,on,our,4,94
+route,by,road,0,104
+route,by,road,1,104
+slope,of,the new ski piste,0,105
+slope,of,piste,1,105
+slope,of,ski,2,105
+slope,of,new,3,105
+relationship,between,hotel room prices and proximity,0,107
+relationship,between,proximity,1,107
+relationship,between,prices,3,107
+relationship,between,room,4,107
+relationship,between,hotel,5,107
+route,for,the ski bus,0,108
+route,for,bus,1,108
+route,for,ski,2,108
+pattern,of,accidents,0,110
+pattern,of,accidents,1,110
+effect,of,road widening,0,112
+effect,of,widening,1,112
+effect,of,road,2,112
+consequences,of,continuing recreational activity,0,113
+consequences,of,activity,1,113
+consequences,of,recreational,2,113
+consequences,of,continuing,3,113
+casualty,from,a tsunami,0,118
+casualty,from,tsunami,1,118
+covered,by,cameras,0,119
+covered,by,cameras,1,119
+locations,of,potential bus stops,0,120
+locations,of,stops,1,120
+locations,of,bus,2,120
+locations,of,potential,3,120
+distribution,in,Amsterdam,0,124
+distribution,in,Amsterdam,1,124
+distribution,of,West Nile Virus,0,134
+distribution,of,Virus,1,134
+distribution,of,Nile,2,134
+distribution,of,West,3,134
+trend,in,crimes,0,136
+trend,in,crimes,1,136
+trends,in,animal migration based,0,137
+trends,in,based,1,137
+trends,in,migration,2,137
+trends,in,animal,3,137
+rate,of,water removal,0,139
+rate,of,removal,1,139
+rate,of,water,2,139
+mileage,of,the asphalt streets,0,140
+mileage,of,streets,1,140
+mileage,of,asphalt,2,140
+rate,of,arsons,0,141
+rate,of,arsons,1,141
+relationship,between,the average monthly sales,0,142
+relationship,between,sales,1,142
+relationship,between,monthly,2,142
+relationship,between,average,3,142
+relationship,between,the locations,0,143
+relationship,between,locations,1,143
+distribution,by,age,0,146
+distribution,by,age,1,146
+trend,given,construction years,0,147
+trend,given,years,1,147
+trend,given,construction,2,147
+concentration,of,various ethnic groups,0,148
+concentration,of,groups,1,148
+concentration,of,ethnic,2,148
+concentration,of,various,3,148
+portion,of,rental houses,0,151
+portion,of,houses,1,151
+portion,of,rental,2,151
+rates,in,each police district,0,152
+rates,in,district,1,152
+rates,in,police,2,152
+rates,in,each,3,152
+results,for,individual candidates,0,153
+results,for,candidates,1,153
+results,for,individual,2,153
+portions,of,energy coming,0,154
+portions,of,coming,1,154
+portions,of,energy,2,154
+density,by,census block,0,155
+density,by,block,1,155
+density,by,census,2,155
+density,of,robberies,0,156
+density,of,robberies,1,156
+areas,with,high population density,0,157
+areas,with,density,1,157
+areas,with,population,2,157
+areas,with,high,3,157
+density,of,rental units,0,158
+density,of,units,1,158
+density,of,rental,2,158
+density,of,registered voters relative,0,159
+density,of,relative,1,159
+density,of,voters,2,159
+density,of,registered,3,159
+density,of,trees,0,160
+density,of,trees,1,160
+density,of,elms,0,161
+density,of,elms,1,161
+surface,of,rainfall based,0,162
+surface,of,based,1,162
+surface,of,rainfall,2,162
+concentration,of,fire incident calls,0,163
+concentration,of,calls,1,163
+concentration,of,incident,2,163
+concentration,of,fire,3,163
+trends,for,each year's tornadoes,0,164
+trends,for,tornadoes,1,164
+trends,for,year's,2,164
+trends,for,each,3,164
+relationship,between,clusters,0,167
+relationship,between,clusters,1,167
+relationship,between,clusters,0,170
+relationship,between,clusters,1,170
+acreage,for,each land-use type,0,174
+acreage,for,type,1,174
+acreage,for,land-use,2,174
+acreage,for,each,3,174
+breakdown,of,the area,0,179
+breakdown,of,area,1,179
+boundaries,for,the schools,0,181
+boundaries,for,schools,1,181
+percentage,of,each land-use type,0,184
+percentage,of,type,1,184
+percentage,of,land-use,2,184
+percentage,of,each,3,184
+zones,of,strict drug enforcement,0,185
+zones,of,enforcement,1,185
+zones,of,drug,2,185
+zones,of,strict,3,185
+zone,around,a hospital,0,186
+zone,around,hospital,1,186
+relationship,between,the speed limit and the noise coefficients,0,189
+relationship,between,coefficients,1,189
+relationship,between,noise,2,189
+relationship,between,limit,5,189
+relationship,between,speed,6,189
+zones,around,each runway,0,192
+zones,around,runway,1,192
+zones,around,each,2,192
+spread,of,plumes,0,197
+spread,of,plumes,1,197
+patterns,at,intersections based,0,205
+patterns,at,based,1,205
+patterns,at,intersections,2,205
+areas,with,single-family residential properties,0,207
+areas,with,properties,1,207
+areas,with,residential,2,207
+areas,with,single-family,3,207
+walkability,of,each neighborhood,0,210
+walkability,of,neighborhood,1,210
+walkability,of,each,2,210
+density,per,neighborhood,0,211
+density,per,neighborhood,1,211
+connectivity,of,each neighborhood,0,212
+connectivity,of,neighborhood,1,212
+connectivity,of,each,2,212
+mix,in,each neighborhood,0,213
+mix,in,neighborhood,1,213
+mix,in,each,2,213
+bikeability,in,the Metro Vancouver region,0,214
+bikeability,in,region,1,214
+bikeability,in,Vancouver,2,214
+bikeability,in,Metro,3,214
+density,in,the Metro Vancouver region,0,215
+density,in,region,1,215
+density,in,Vancouver,2,215
+density,in,Metro,3,215
+degree,of,bicycle route separation the Metro Vancouver region,0,216
+degree,of,region,1,216
+degree,of,Vancouver,2,216
+degree,of,Metro,3,216
+degree,of,separation,5,216
+degree,of,route,6,216
+degree,of,bicycle,7,216
+connectivity,of,bicycle-friendly streets,0,217
+connectivity,of,streets,1,217
+connectivity,of,bicycle-friendly,2,217
+topography,of,bicycle-friendly streets the Metro Vancouver region,0,218
+topography,of,region,1,218
+topography,of,Vancouver,2,218
+topography,of,Metro,3,218
+topography,of,streets,5,218
+topography,of,bicycle-friendly,6,218
+density,for,cyclists,0,219
+density,for,cyclists,1,219
+effect,of,different scales,0,220
+effect,of,scales,1,220
+effect,of,different,2,220
+impact,of,low population density,0,222
+impact,of,density,1,222
+impact,of,population,2,222
+impact,of,low,3,222
+accessibility,of,population,0,224
+accessibility,of,population,1,224
+distance,to,public primary schools,0,225
+distance,to,schools,1,225
+distance,to,primary,2,225
+distance,to,public,3,225
+distance,to,primary schools,0,227
+distance,to,schools,1,227
+distance,to,primary,2,227
+distance,to,primary schools,0,228
+distance,to,schools,1,228
+distance,to,primary,2,228
+population,that,is estimated,0,233
+population,that,estimated,1,233
+population,that,is,2,233
+dynamics,of,carbon emissions,0,234
+dynamics,of,emissions,1,234
+dynamics,of,carbon,2,234
+emission,from,paddy fields,0,236
+emission,from,fields,1,236
+emission,from,paddy,2,236
+emission,from,agricultural activities,0,237
+emission,from,activities,1,237
+emission,from,agricultural,2,237
+emission,from,the construction,0,238
+emission,from,construction,1,238
+sites,for,metro stations,0,239
+sites,for,stations,1,239
+sites,for,metro,2,239
+access,to,outpatient services relative,0,240
+access,to,relative,1,240
+access,to,services,2,240
+access,to,outpatient,3,240
+density,basedon,IndoPop data,0,241
+density,basedon,data,1,241
+density,basedon,IndoPop,2,241
+factors,of,the area,0,245
+factors,of,area,1,245
+factors,of,the location,0,246
+factors,of,location,1,246
+distribution,of,robberies,0,248
+distribution,of,robberies,1,248
+factors,that,determine the potential,0,249
+factors,that,potential,1,249
+factors,that,determine,3,249
+accessibility,to,family physician services,0,251
+accessibility,to,services,1,251
+accessibility,to,physician,2,251
+accessibility,to,family,3,251
+influence,of,the spatial distribution,0,254
+influence,of,distribution,1,254
+influence,of,spatial,2,254
+access,to,private hospitals,0,257
+access,to,hospitals,1,257
+access,to,private,2,257
+accessibility,to,public buses,0,260
+accessibility,to,buses,1,260
+accessibility,to,public,2,260
+patterns,of,individuals based upon geo-tagged photography,0,261
+patterns,of,photography,1,261
+patterns,of,geo-tagged,2,261
+patterns,of,upon,3,261
+patterns,of,based,4,261
+patterns,of,individuals,5,261
+impact,of,land use,0,262
+impact,of,use,1,262
+impact,of,land,2,262
+pattern,for,Jiangsu Province during the mid-Qing Dynasty,0,263
+pattern,for,Dynasty,1,263
+pattern,for,mid-Qing,2,263
+pattern,for,during,4,263
+pattern,for,Province,5,263
+pattern,for,Jiangsu,6,263
+patterns,of,relative healthy food access,0,267
+patterns,of,access,1,267
+patterns,of,food,2,267
+patterns,of,healthy,3,267
+patterns,of,relative,4,267
+relationship,between,the walking activity,0,272
+relationship,between,activity,1,272
+relationship,between,walking,2,272
+accessibility,of,the population,0,274
+accessibility,of,population,1,274
+changes,in,the environment,0,275
+changes,in,environment,1,275
+factors,that,are associated,0,276
+factors,that,associated,1,276
+factors,that,are,2,276
+impact,of,High-Speed Rail,0,278
+impact,of,Rail,1,278
+impact,of,High-Speed,2,278
+effect,of,geographic proximity,0,282
+effect,of,proximity,1,282
+effect,of,geographic,2,282
+effect,of,the distribution,0,285
+effect,of,distribution,1,285
+distribution,of,aging populations,0,291
+distribution,of,populations,1,291
+distribution,of,aging,2,291
+ratio,at,different areal units,0,292
+ratio,at,units,1,292
+ratio,at,areal,2,292
+ratio,at,different,3,292
+density,at,different areal units,0,293
+density,at,units,1,293
+density,at,areal,2,293
+density,at,different,3,293
+correlation,between,the aging population ratio and the aging population density,0,294
+correlation,between,density,1,294
+correlation,between,population,2,294
+correlation,between,aging,3,294
+correlation,between,ratio,6,294
+correlation,between,population,7,294
+correlation,between,aging,8,294
+ratio,of,sidewalk length,0,297
+ratio,of,length,1,297
+ratio,of,sidewalk,2,297
+ratio,at,the census tract level,0,298
+ratio,at,level,1,298
+ratio,at,tract,2,298
+ratio,at,census,3,298
+number,of,people living,0,299
+number,of,living,1,299
+number,of,people,2,299
+ratio,of,the number,0,300
+ratio,of,number,1,300
+structure,of,retailing businesses,0,301
+structure,of,businesses,1,301
+structure,of,retailing,2,301
+calculated,with,the Minkowski metric,0,302
+calculated,with,metric,1,302
+calculated,with,Minkowski,2,302
+effect,of,household characteristics,0,305
+effect,of,characteristics,1,305
+effect,of,household,2,305
+accessibility,of,affordable grocery foods,0,306
+accessibility,of,foods,1,306
+accessibility,of,grocery,2,306
+accessibility,of,affordable,3,306
+level,of,geographical heterogeneity,0,308
+level,of,heterogeneity,1,308
+level,of,geographical,2,308
+volumes,on,low-class roads,0,309
+volumes,on,roads,1,309
+volumes,on,low-class,2,309
+trends,of,school and housing segregation,0,314
+trends,of,segregation,1,314
+trends,of,housing,2,314
+trends,of,school,4,314
+difference,between,the racial composition,0,316
+difference,between,composition,1,316
+difference,between,racial,2,316
+pattern,of,heterogeneous ecological conditions,0,324
+pattern,of,conditions,1,324
+pattern,of,ecological,2,324
+pattern,of,heterogeneous,3,324
+effects,on,rural landscapes,0,326
+effects,on,landscapes,1,326
+effects,on,rural,2,326
+accessibility,of,sexual and reproductive health (SRH) services,0,329
+accessibility,of,services,1,329
+accessibility,of,(SRH),2,329
+accessibility,of,health,3,329
+accessibility,of,reproductive,4,329
+accessibility,of,sexual,6,329
+distribution,of,residences,0,330
+distribution,of,residences,1,330
+changes,of,landuse categories distribution,0,335
+changes,of,distribution,1,335
+changes,of,categories,2,335
+changes,of,landuse,3,335
+changes,in,transport networks,0,336
+changes,in,networks,1,336
+changes,in,transport,2,336
+changes,in,visibility,0,337
+changes,in,visibility,1,337
+distribution,of,nonprofit organizations serving immigrants,0,338
+distribution,of,immigrants,1,338
+distribution,of,serving,2,338
+distribution,of,organizations,3,338
+distribution,of,nonprofit,4,338
+pattern,in,the Greater Boston area,0,340
+pattern,in,area,1,340
+pattern,in,Boston,2,340
+pattern,in,Greater,3,340
+relationships,between,population and urban growth,0,341
+relationships,between,growth,1,341
+relationships,between,urban,2,341
+relationships,between,population,4,341
+relationships,between,population and urban growth,0,342
+relationships,between,growth,1,342
+relationships,between,urban,2,342
+relationships,between,population,4,342
+pattern,of,urban growth,0,343
+pattern,of,growth,1,343
+pattern,of,urban,2,343
+behavior,of,individuals,0,351
+behavior,of,individuals,1,351
+behavior,of,households,0,352
+behavior,of,households,1,352
+relationship,between,activity density and land uses,0,354
+relationship,between,uses,1,354
+relationship,between,land,2,354
+relationship,between,density,4,354
+relationship,between,activity,5,354
+patterns,of,different employment groups,0,355
+patterns,of,groups,1,355
+patterns,of,employment,2,355
+patterns,of,different,3,355
+differences,of,activity pattern,0,356
+differences,of,pattern,1,356
+differences,of,activity,2,356
+effect,of,scale,0,357
+effect,of,scale,1,357
+autocorrelation,of,urban land prices,0,360
+autocorrelation,of,prices,1,360
+autocorrelation,of,land,2,360
+autocorrelation,of,urban,3,360
+distribution,of,urban land prices,0,361
+distribution,of,prices,1,361
+distribution,of,land,2,361
+distribution,of,urban,3,361
+factors,to,urban land price,0,362
+factors,to,price,1,362
+factors,to,land,2,362
+factors,to,urban,3,362
+patterns,of,clustering,0,363
+patterns,of,clustering,1,363
+relationships,between,the level,0,364
+relationships,between,level,1,364
+differences,of,spatial patterns,0,367
+differences,of,patterns,1,367
+differences,of,spatial,2,367
+characteristics,of,land use change,0,368
+characteristics,of,change,1,368
+characteristics,of,use,2,368
+characteristics,of,land,3,368
+methods,for,population modeling,0,377
+methods,for,modeling,1,377
+methods,for,population,2,377
+factors,for,population change,0,379
+factors,for,change,1,379
+factors,for,population,2,379
+characteristics,of,population distribution,0,380
+characteristics,of,distribution,1,380
+characteristics,of,population,2,380
+pattern,of,various industries,0,382
+pattern,of,industries,1,382
+pattern,of,various,2,382
+relationships,of,establishments,0,383
+relationships,of,establishments,1,383
+changes,in,spatial characteristics,0,386
+changes,in,characteristics,1,386
+changes,in,spatial,2,386
+trends,of,students,0,387
+trends,of,students,1,387
+distribution,in,Leeds,0,388
+distribution,in,Leeds,1,388
+changes,in,the built-up area,0,389
+changes,in,area,1,389
+changes,in,built-up,2,389
+variations,of,hotspots,0,392
+variations,of,hotspots,1,392
+impacts,of,different social-economic factors,0,393
+impacts,of,factors,1,393
+impacts,of,social-economic,2,393
+impacts,of,different,3,393
+pattern,of,rural-urban land use,0,394
+pattern,of,use,1,394
+pattern,of,land,2,394
+pattern,of,rural-urban,3,394
+patterns,in,the cultural industries,0,395
+patterns,in,industries,1,395
+patterns,in,cultural,2,395
+potential,in,the area Islamabad Zone IV,0,397
+potential,in,IV,1,397
+potential,in,Zone,2,397
+potential,in,Islamabad,3,397
+potential,in,area,4,397
+interactions,between,population growth and changes,0,399
+interactions,between,changes,1,399
+interactions,between,growth,3,399
+interactions,between,population,4,399
+changes,in,Original-stream Zone,0,400
+changes,in,Zone,1,400
+changes,in,Original-stream,2,400
+distribution,of,cervix cancer mortality rates,0,403
+distribution,of,rates,1,403
+distribution,of,mortality,2,403
+distribution,of,cancer,3,403
+distribution,of,cervix,4,403
+map,of,all districts,0,404
+map,of,districts,1,404
+map,of,all,2,404
+effects,of,"the built environment (e.g. physical environment, land use patterns, the road network, and bicycle-specific facilities)",0,407
+effects,of,facilities),1,407
+effects,of,bicycle-specific,2,407
+effects,of,"network,",4,407
+effects,of,road,5,407
+effects,of,"patterns,",7,407
+effects,of,use,8,407
+effects,of,land,9,407
+effects,of,"environment,",10,407
+effects,of,physical,11,407
+effects,of,(e.g.,12,407
+effects,of,environment,13,407
+effects,of,built,14,407
+association,between,urban neighborhood socioeconomic markers and ambient air pollution,0,408
+association,between,pollution,1,408
+association,between,air,2,408
+association,between,ambient,3,408
+association,between,markers,5,408
+association,between,socioeconomic,6,408
+association,between,neighborhood,7,408
+association,between,urban,8,408
+impact,of,racial residential segregation,0,410
+impact,of,segregation,1,410
+impact,of,residential,2,410
+impact,of,racial,3,410
+impact,of,racial residential segregation,0,411
+impact,of,segregation,1,411
+impact,of,residential,2,411
+impact,of,racial,3,411
+exposure,for,maternal,0,412
+exposure,for,maternal,1,412
+types,within,1km,0,417
+types,within,1km,1,417
+accessibility,of,residential units,0,421
+accessibility,of,units,1,421
+accessibility,of,residential,2,421
+aspect,of,the new ski piste,0,430
+aspect,of,piste,1,430
+aspect,of,ski,2,430
+aspect,of,new,3,430
+trends,in,animal grazing based,0,431
+trends,in,based,1,431
+trends,in,grazing,2,431
+trends,in,animal,3,431
+rates,in,each police district,0,432
+rates,in,district,1,432
+rates,in,police,2,432
+rates,in,each,3,432
+density,of,crape myrtles,0,433
+density,of,myrtles,1,433
+density,of,crape,2,433
+impact,of,high population density,0,434
+impact,of,density,1,434
+impact,of,population,2,434
+impact,of,high,3,434
+dynamics,of,carbon sinks,0,435
+dynamics,of,sinks,1,435
+dynamics,of,carbon,2,435
+accessibility,for,seniors,0,436
+accessibility,for,seniors,1,436
+access,to,private hospitals,0,437
+access,to,hospitals,1,437
+access,to,private,2,437
+access,to,public hospitals,0,438
+access,to,hospitals,1,438
+access,to,public,2,438
+access,to,public hospitals,0,439
+access,to,hospitals,1,439
+access,to,public,2,439
+accessibility,to,public trams,0,440
+accessibility,to,trams,1,440
+accessibility,to,public,2,440
+accessibility,to,public trains,0,441
+accessibility,to,trains,1,441
+accessibility,to,public,2,441
+impact,of,population density,0,442
+impact,of,density,1,442
+impact,of,population,2,442
+changes,in,the climate,0,443
+changes,in,climate,1,443
+changes,in,the land use,0,444
+changes,in,use,1,444
+changes,in,land,2,444
+changes,in,the land cover types,0,445
+changes,in,types,1,445
+changes,in,cover,2,445
+changes,in,land,3,445
+calculated,with,the Minkowski metric,0,446
+calculated,with,metric,1,446
+calculated,with,Minkowski,2,446
+effect,of,household characteristics,0,447
+effect,of,characteristics,1,447
+effect,of,household,2,447
+effect,of,neighborhood characteristics,0,448
+effect,of,characteristics,1,448
+effect,of,neighborhood,2,448
+effect,of,neighborhood characteristics,0,449
+effect,of,characteristics,1,449
+effect,of,neighborhood,2,449
+changes,in,water resources,0,450
+changes,in,resources,1,450
+changes,in,water,2,450
+interactions,between,population growth and changes,0,451
+interactions,between,changes,1,451
+interactions,between,growth,3,451
+interactions,between,population,4,451
+patterns,in,the cultural industries,0,452
+patterns,in,industries,1,452
+patterns,in,cultural,2,452
+areas,with,high concentration,0,453
+areas,with,concentration,1,453
+areas,with,high,2,453
+distribution,of,health service units,0,454
+distribution,of,units,1,454
+distribution,of,service,2,454
+distribution,of,health,3,454
+distribution,of,towns,0,455
+distribution,of,towns,1,455
+distribution,of,residences,0,456
+distribution,of,residences,1,456
+distribution,of,health service units,0,457
+distribution,of,units,1,457
+distribution,of,service,2,457
+distribution,of,health,3,457
+distribution,of,towns,0,458
+distribution,of,towns,1,458
+portion,of,owner-occupied houses,0,459
+portion,of,houses,1,459
+portion,of,owner-occupied,2,459
+portion,of,vacant houses,0,460
+portion,of,houses,1,460
+portion,of,vacant,2,460
+accessibility,for,seniors,0,461
+accessibility,for,seniors,1,461
+association,between,urban neighborhood socioeconomic markers and ambient air pollution,0,462
+association,between,pollution,1,462
+association,between,air,2,462
+association,between,ambient,3,462
+association,between,markers,5,462
+association,between,socioeconomic,6,462
+association,between,neighborhood,7,462
+association,between,urban,8,462
+effect,of,the distribution,0,463
+effect,of,distribution,1,463
+effect,of,the distribution,0,464
+effect,of,distribution,1,464
+accessibility,to,family physician services,0,465
+accessibility,to,services,1,465
+accessibility,to,physician,2,465
+accessibility,to,family,3,465
+zones,of,strict drug enforcement,0,466
+zones,of,enforcement,1,466
+zones,of,drug,2,466
+zones,of,strict,3,466
+zones,of,strict drug enforcement,0,467
+zones,of,enforcement,1,467
+zones,of,drug,2,467
+zones,of,strict,3,467
+consequences,of,forestry,0,468
+consequences,of,forestry,1,468

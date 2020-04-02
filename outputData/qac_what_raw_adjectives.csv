@@ -1,0 +1,271 @@
+intent,adjective,distance,qid
+impact,economic ,0,65
+impact,economic,1,65
+site,best ,0,66
+site,best,1,66
+saving,time ,0,75
+saving,time,1,75
+consequences,long-term ,0,76
+consequences,long-term,1,76
+type,predominant land use ,0,101
+type,predominant,3,101
+type,land,2,101
+type,use,1,101
+snowfall,predicted ,0,103
+snowfall,predicted,1,103
+route,quickest ,0,104
+route,quickest,1,104
+route,quickest ,0,108
+route,quickest,1,108
+consequences,long-term ,0,113
+consequences,long-term,1,113
+casualty,estimated ,0,118
+casualty,estimated,1,118
+covered,areas ,0,119
+covered,areas,1,119
+categories,zoning ,0,121
+categories,zoning,1,121
+distribution,crime ,0,124
+distribution,crime,1,124
+trend,directional ,0,136
+trend,directional,1,136
+trends,directional ,0,137
+trends,directional,1,137
+categories,single family zoning ,0,138
+categories,single,3,138
+categories,family,2,138
+categories,zoning,1,138
+mileage,total linear ,0,140
+mileage,total,2,140
+mileage,linear,1,140
+rate,monthly ,0,141
+rate,monthly,1,141
+distribution,population ,0,145
+distribution,population,1,145
+distribution,population ,0,146
+distribution,population,1,146
+trend,construction ,0,147
+trend,construction,1,147
+rates,crime ,0,152
+rates,crime,1,152
+results,election ,0,153
+results,election,1,153
+density,population ,0,155
+density,population,1,155
+density,dot ,0,158
+density,dot,1,158
+density,dot ,0,159
+density,dot,1,159
+surface,density ,0,162
+surface,density,1,162
+trends,directional ,0,164
+trends,directional,1,164
+boundaries,attendance ,0,181
+boundaries,attendance,1,181
+zone,quite ,0,186
+zone,quite,1,186
+zones,noise mitigation ,0,192
+zones,noise,2,192
+zones,mitigation,1,192
+patterns,traffic ,0,205
+patterns,traffic,1,205
+walkability,utility-based ,0,210
+walkability,utility-based,1,210
+density,residential ,0,211
+density,residential,1,211
+mix,land-use ,0,213
+mix,land-use,1,213
+density,bicycle route ,0,215
+density,bicycle,2,215
+density,route,1,215
+density,destination ,0,219
+density,destination,1,219
+distance,population's minimum network-based ,0,225
+distance,population's,3,225
+distance,minimum,2,225
+distance,network-based,1,225
+distance,minimum network-based ,0,227
+distance,minimum,2,227
+distance,network-based,1,227
+distance,minimum network-based ,0,228
+distance,minimum,2,228
+distance,network-based,1,228
+population,urban ,0,233
+population,urban,1,233
+dynamics,spatio-temporal ,0,234
+dynamics,spatio-temporal,1,234
+emission,annual direct carbon ,0,236
+emission,annual,3,236
+emission,direct,2,236
+emission,carbon,1,236
+emission,annual indirect carbon ,0,237
+emission,annual,3,237
+emission,indirect,2,237
+emission,carbon,1,237
+emission,annual total carbon ,0,238
+emission,annual,3,238
+emission,total,2,238
+emission,carbon,1,238
+sites,suitable ,0,239
+sites,suitable,1,239
+access,spatial ,0,240
+access,spatial,1,240
+density,population ,0,241
+density,population,1,241
+factors,determining ,0,245
+factors,determining,1,245
+factors,determining ,0,246
+factors,determining,1,246
+distribution,spatial probability ,0,248
+distribution,spatial,2,248
+distribution,probability,1,248
+accessibility,geographic ,0,251
+accessibility,geographic,1,251
+access,spatial ,0,257
+access,spatial,1,257
+accessibility,spatial ,0,260
+accessibility,spatial,1,260
+patterns,urban temporal ,0,261
+patterns,urban,2,261
+patterns,temporal,1,261
+pattern,historical spatial land use ,0,263
+pattern,historical,4,263
+pattern,spatial,3,263
+pattern,land,2,263
+pattern,use,1,263
+patterns,spatiotemporal ,0,267
+patterns,spatiotemporal,1,267
+factors,risk ,0,276
+factors,risk,1,276
+distribution,spatial ,0,291
+distribution,spatial,1,291
+ratio,aging population ,0,292
+ratio,aging,2,292
+ratio,population,1,292
+density,aging population ,0,293
+density,aging,2,293
+density,population,1,293
+ratio,retail floor area ,0,298
+ratio,retail,3,298
+ratio,floor,2,298
+ratio,area,1,298
+structure,spatial ,0,301
+structure,spatial,1,301
+calculated,road distances ,0,302
+calculated,road,2,302
+calculated,distances,1,302
+volumes,traffic ,0,309
+volumes,traffic,1,309
+trends,spatial ,0,314
+trends,spatial,1,314
+pattern,spatial distribution ,0,324
+pattern,spatial,2,324
+pattern,distribution,1,324
+distribution,spatial ,0,330
+distribution,spatial,1,330
+change,long-term spatio-temporal landscape ,0,334
+change,long-term,3,334
+change,spatio-temporal,2,334
+change,landscape,1,334
+distribution,geographic ,0,338
+distribution,geographic,1,338
+pattern,ethnic settlement ,0,340
+pattern,ethnic,2,340
+pattern,settlement,1,340
+pattern,spatial-temporal ,0,343
+pattern,spatial-temporal,1,343
+behavior,travel ,0,351
+behavior,travel,1,351
+behavior,travel ,0,352
+behavior,travel,1,352
+pattern,individual activity ,0,353
+pattern,individual,2,353
+pattern,activity,1,353
+patterns,activity ,0,355
+patterns,activity,1,355
+autocorrelation,spatial ,0,360
+autocorrelation,spatial,1,360
+distribution,spatial ,0,361
+distribution,spatial,1,361
+factors,most influential ,0,362
+factors,most,2,362
+factors,influential,1,362
+characteristics,spatio-temporal ,0,368
+characteristics,spatio-temporal,1,368
+factors,possible influencing ,0,379
+factors,possible,2,379
+factors,influencing,1,379
+pattern,spatial ,0,382
+pattern,spatial,1,382
+relationships,spatial ,0,383
+relationships,spatial,1,383
+trends,moving ,0,387
+trends,moving,1,387
+distribution,mortality ,0,388
+distribution,mortality,1,388
+changes,land use ,0,389
+changes,land,2,389
+changes,use,1,389
+variations,spatial-temporal ,0,392
+variations,spatial-temporal,1,392
+pattern,conversion ,0,394
+pattern,conversion,1,394
+patterns,geographical ,0,395
+patterns,geographical,1,395
+potential,urban growth ,0,397
+potential,urban,2,397
+potential,growth,1,397
+changes,land use ,0,400
+changes,land,2,400
+changes,use,1,400
+distribution,spatial ,0,403
+distribution,spatial,1,403
+map,quantitative risk zoning ,0,404
+map,quantitative,3,404
+map,risk,2,404
+map,zoning,1,404
+types,land cover ,0,417
+types,land,2,417
+types,cover,1,417
+distribution,population ,0,424
+distribution,population,1,424
+trends,directional ,0,431
+trends,directional,1,431
+rates,crime ,0,432
+rates,crime,1,432
+dynamics,spatio-temporal ,0,435
+dynamics,spatio-temporal,1,435
+accessibility,geographic ,0,436
+accessibility,geographic,1,436
+access,spatial ,0,437
+access,spatial,1,437
+access,spatial ,0,438
+access,spatial,1,438
+access,spatial ,0,439
+access,spatial,1,439
+accessibility,spatial ,0,440
+accessibility,spatial,1,440
+accessibility,spatial ,0,441
+accessibility,spatial,1,441
+calculated,road travel times ,0,446
+calculated,road,3,446
+calculated,travel,2,446
+calculated,times,1,446
+patterns,geographical ,0,452
+patterns,geographical,1,452
+distribution,spatial ,0,454
+distribution,spatial,1,454
+distribution,spatial ,0,455
+distribution,spatial,1,455
+distribution,spatial ,0,456
+distribution,spatial,1,456
+distribution,spatial ,0,457
+distribution,spatial,1,457
+distribution,spatial ,0,458
+distribution,spatial,1,458
+accessibility,geographic ,0,461
+accessibility,geographic,1,461
+accessibility,geographic ,0,465
+accessibility,geographic,1,465
+consequences,long-term ,0,468
+consequences,long-term,1,468
